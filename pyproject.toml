@@ -7,7 +7,7 @@ requires-python = ">=3.10"
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/ethanfel/ComfyUI-Krea2TextEncoder"
+Repository = "https://github.com/thezveroboy/ComfyUI-Qwen2TextEncoder"
 
 [tool.comfy]
 DisplayName = "Text Encode (Qwen Image 2.1)"
