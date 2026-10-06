@@ -1,0 +1,10 @@
+# Agent / local files — never pushed
+AGENTS.md
+GOALS.md
+opencode.bat
+.opencode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

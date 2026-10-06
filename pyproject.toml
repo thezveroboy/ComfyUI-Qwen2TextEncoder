@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-qwen-text-encoder"
+description = "Vision-aware text conditioning for Qwen Image 2.1. Feeds reference images through the Qwen3-VL-8B vision path; optional VAE splices pixel-faithful reference latents; optional per-image mask crops to the masked region. Auto-growing image+mask slots."
+version = "1.0.0"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/ethanfel/ComfyUI-Krea2TextEncoder"
+
+[tool.comfy]
+DisplayName = "Text Encode (Qwen Image 2.1)"
